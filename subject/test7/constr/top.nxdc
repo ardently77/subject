@@ -1,0 +1,6 @@
+top=top
+
+clr (SW0)
+clk (SW1)
+
+out (LD7,LD6,LD5,LD4,LD3,LD2,LD1,LD0)

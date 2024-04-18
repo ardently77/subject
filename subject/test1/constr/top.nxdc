@@ -1,0 +1,8 @@
+top=top
+
+s (SW0,SW1)
+a[0] (SW2,SW3)
+a[1] (SW4,SW5)
+a[2] (SW6,SW7)
+a[3] (SW8,SW9)
+f (LD0,LD1)

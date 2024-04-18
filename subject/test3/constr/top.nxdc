@@ -1,0 +1,10 @@
+top=top
+a (SW3,SW2,SW1,SW0)
+b (SW7,SW6,SW5,SW4)
+ctl (SW10,SW9,SW8)
+result (LD3,LD2,LD1,LD0)
+carry (LD4)
+zero (LD5)
+overflow (LD6)
+out0 (LD7)
+out1 (LD8)
